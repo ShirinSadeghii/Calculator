@@ -11,6 +11,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+If you want to clone this repo, you will need to install sass
+and react-textfit. To do this enter: npm i sass react-textfit.
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
