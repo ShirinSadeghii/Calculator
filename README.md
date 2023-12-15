@@ -1,4 +1,3 @@
-Created a basic fully functioning calculator using React app.
 
 # Getting Started with Create React App
 
