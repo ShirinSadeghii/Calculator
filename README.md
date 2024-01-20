@@ -1,3 +1,6 @@
+# This is how the Application will look like when you run it.
+![Screen Shot 2024-01-19 at 3 48 57 PM](https://github.com/ShirinSadeghii/Calculator/assets/145378172/4ac09802-fbf4-4f35-87fe-930d2f2898a6)
+
 
 # Getting Started with Create React App
 
